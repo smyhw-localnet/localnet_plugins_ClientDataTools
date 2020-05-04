@@ -1,0 +1,2 @@
+# localnet_plugins_ClientDataTools
+查看/操作ClientData的工具
