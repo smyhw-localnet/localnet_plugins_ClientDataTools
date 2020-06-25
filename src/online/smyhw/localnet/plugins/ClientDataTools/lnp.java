@@ -1,7 +1,5 @@
 package online.smyhw.localnet.plugins.ClientDataTools;
 
-import java.util.HashMap;
-import java.util.Hashtable;
 import java.util.Iterator;
 import java.util.Map;
 
@@ -9,11 +7,7 @@ import online.smyhw.localnet.LN;
 import online.smyhw.localnet.LNlib;
 import online.smyhw.localnet.message;
 import online.smyhw.localnet.command.cmdManager;
-import online.smyhw.localnet.data.DataManager;
-import online.smyhw.localnet.data.config;
 import online.smyhw.localnet.data.data;
-import online.smyhw.localnet.event.ChatINFO_Event;
-import online.smyhw.localnet.event.EventManager;
 import online.smyhw.localnet.lib.CommandFJ;
 import online.smyhw.localnet.network.Client_sl;
 
